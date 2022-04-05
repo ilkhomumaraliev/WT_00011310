@@ -4,3 +4,4 @@ Dependencies: express, ejs, mongoose,
 Dev Dependencies:nodemon
 
 GitHub Link : https://github.com/ilkhomumaraliev/WT_00011310
+Heroku: https://wt00011310.herokuapp.com/
